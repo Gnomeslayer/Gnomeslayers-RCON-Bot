@@ -1,0 +1,78 @@
+{
+    "tokens": {
+        "discord_token": "",
+        "battlemetrics_token": "",
+        "steam_token": ""
+    },
+    "additional": {
+        "prefix": "thisdoesntevenwork",
+        "application_id": 1234,
+        "organization_id": 25433,
+        "logchannel": 1177840353919914086,
+        "banlist": "abc"
+    },
+    "cogs": {
+        "color": "0x9b59b6",
+        "activity_slashes": {
+            "allowed_roles": [
+                1176426897274585179
+            ]
+        },
+        "bans_slashes": {
+            "allowed_roles": [
+                1176426897274585179
+            ]
+        },
+        "clans_slashes": {
+            "allowed_roles": [
+                1176426897274585179
+            ]
+        },
+        "mutes_slashes": {
+            "allowed_roles": [
+                1176426897274585179
+            ]
+        },
+        "notes_slashes": {
+            "allowed_roles": [
+                1176426897274585179
+            ]
+        },
+        "profile": {
+            "allowed_roles": [
+                1176426897274585179
+            ]
+        },
+        "rcon": {
+            "allowed_roles": [
+                1176426897274585179
+            ]
+        },
+        "server_slashes": {
+            "allowed_roles": [
+                1176426897274585179
+            ]
+        }
+    },
+    "servers": [
+        {
+            "id": "22365843",
+            "name": "POLAR | Solo/Duo/Trio | Noob Friendly",
+            "ip": "95.214.180.69:28055",
+            "status": "online",
+            "active": true
+        }
+    ],
+    "ban_reasons": [
+        {
+            "reason": "Hacking",
+            "duration": "1d"
+        }
+    ],
+    "mute_reasons": [
+        {
+            "reason": "test",
+            "duration": "1m"
+        }
+    ]
+}
