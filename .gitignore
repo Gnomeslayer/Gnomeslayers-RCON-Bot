@@ -1,0 +1,6 @@
+
+testdata.json
+*.pyc
+json/test_config.json
+lib/__pycache__/battlemetrics.cpython-311.pyc
+*.zip
